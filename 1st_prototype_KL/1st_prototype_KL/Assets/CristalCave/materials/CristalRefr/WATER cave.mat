@@ -1,0 +1,289 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: WATER cave
+  m_Shader: {fileID: 4800000, guid: af00a0074d0ab9e4393a2f5c43d76d9a, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: _MainTex
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _BumpMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DetailNormalMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _ParallaxMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _OcclusionMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _EmissionMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DetailMask
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _DetailAlbedoMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _MetallicGlossMap
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _cubemap
+        second:
+          m_Texture: {fileID: 8900000, guid: 9a05250de96f90449a664ebda8d4bb18, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _normal
+        second:
+          m_Texture: {fileID: 2800000, guid: aba06f8af729c9e4fa841a4dc7d578c5, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _WaterNormal
+        second:
+          m_Texture: {fileID: 2800000, guid: aba06f8af729c9e4fa841a4dc7d578c5, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _WaterUVnormal
+        second:
+          m_Texture: {fileID: 2800000, guid: aba06f8af729c9e4fa841a4dc7d578c5, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _node_116
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _node_283
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _node_1033
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _node_9028
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: _node_850
+        second:
+          m_Texture: {fileID: 0}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: _SrcBlend
+        second: 1
+      data:
+        first:
+          name: _DstBlend
+        second: 0
+      data:
+        first:
+          name: _Cutoff
+        second: 0.5
+      data:
+        first:
+          name: _Parallax
+        second: 0.02
+      data:
+        first:
+          name: _ZWrite
+        second: 1
+      data:
+        first:
+          name: _Glossiness
+        second: 0.5
+      data:
+        first:
+          name: _BumpScale
+        second: 1
+      data:
+        first:
+          name: _OcclusionStrength
+        second: 1
+      data:
+        first:
+          name: _DetailNormalMapScale
+        second: 1
+      data:
+        first:
+          name: _UVSec
+        second: 0
+      data:
+        first:
+          name: _Mode
+        second: 0
+      data:
+        first:
+          name: _Metallic
+        second: 0
+      data:
+        first:
+          name: _exp
+        second: 0.94
+      data:
+        first:
+          name: _scale1
+        second: 8.4
+      data:
+        first:
+          name: _scale2
+        second: 96.85
+      data:
+        first:
+          name: _speed1
+        second: -0.1
+      data:
+        first:
+          name: _speed2
+        second: 0.12
+      data:
+        first:
+          name: _opacity
+        second: 0.256
+      data:
+        first:
+          name: _tile1
+        second: 40.9
+      data:
+        first:
+          name: _tile2
+        second: 26.3
+      data:
+        first:
+          name: _Depth
+        second: 0.012
+      data:
+        first:
+          name: _reflect1
+        second: 0.541
+      data:
+        first:
+          name: _reflect2
+        second: 0.176
+      data:
+        first:
+          name: _clean
+        second: 0.636
+      data:
+        first:
+          name: _normalpower
+        second: 0.913
+      data:
+        first:
+          name: _edge
+        second: 0.0205
+      data:
+        first:
+          name: _fade
+        second: 1
+      data:
+        first:
+          name: _opacoveride
+        second: 0.091
+    m_Colors:
+      data:
+        first:
+          name: _EmissionColor
+        second: {r: 0, g: 0, b: 0, a: 1}
+      data:
+        first:
+          name: _Color
+        second: {r: 0.678, g: 0.678, b: 0.678, a: 1}
+      data:
+        first:
+          name: _color
+        second: {r: 0.8455882, g: 0.8455882, b: 0.8455882, a: 1}
+      data:
+        first:
+          name: _color2
+        second: {r: 0.08401817, g: 0.27205884, b: 0.27205884, a: 0}
+      data:
+        first:
+          name: _vector
+        second: {r: 0, g: 0, b: 0, a: 2}
+      data:
+        first:
+          name: _vector_d
+        second: {r: -2.64, g: 2.07, b: 4.7, a: 0}
+      data:
+        first:
+          name: _colorfade2
+        second: {r: 0.23842995, g: 0.5147059, b: 0.43468112, a: 1}
+      data:
+        first:
+          name: _colorfade1
+        second: {r: 0.07315095, g: 0.19754586, b: 0.30147058, a: 1}

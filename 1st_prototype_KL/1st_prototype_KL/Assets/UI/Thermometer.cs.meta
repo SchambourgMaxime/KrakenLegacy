@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 393f217fdd51e0d4f97681b83738fafe
+timeCreated: 1458513762
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - thermometreExtremeCold: {fileID: 21300000, guid: a8d321d08d4b5a04d93874903c60d34b,
+      type: 3}
+  - thermometreMoreCold: {fileID: 21300000, guid: 1009ba5fa366e3c428bd9e31412c04ba,
+      type: 3}
+  - thermometreCold: {fileID: 21300000, guid: 2c8cb2db243a396489e2916b116c6f50, type: 3}
+  - thermometreWarm: {fileID: 21300000, guid: 7283154f66da1514eb1a6a24df8dc418, type: 3}
+  - thermometreMoreWarm: {fileID: 21300000, guid: 88204571d159d7c4cb47befaddc7846e,
+      type: 3}
+  - thermometreExtremeWarm: {fileID: 21300000, guid: f38fcf6e482e5f94aab7a42f30f82bd7,
+      type: 3}
+  - thermometreHot: {fileID: 21300000, guid: a5de56c7ae238ba48974c501f8193c6b, type: 3}
+  - thermometreMoreHot: {fileID: 21300000, guid: fc9042099ff71574fa43feb9be571b95,
+      type: 3}
+  - thermometreExtremeHot: {fileID: 21300000, guid: aa0cd12bd2312fe4eb1eb6f12fff3126,
+      type: 3}
+  - firstRoom: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

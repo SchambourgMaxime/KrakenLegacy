@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 6bbf82179f18fe14ca1aa6016dd3cccb
+timeCreated: 1457917425
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - textureStats: {fileID: 2800000, guid: 5b380cdff8d9dbd469bcc847e53d7172, type: 3}
+  - textureNoDash: {fileID: 2800000, guid: da479d9faade5524e8973a48b02a6c36, type: 3}
+  - textureDash: {fileID: 2800000, guid: e3af50b606b585947b230edb96ba3284, type: 3}
+  - textureNoDestruction: {fileID: 2800000, guid: c4929c5a05037d94683f425179fafa3e,
+      type: 3}
+  - textureDestruction: {fileID: 2800000, guid: 832df33fda9b08046906f79b64396dba,
+      type: 3}
+  - textureNoLight: {fileID: 2800000, guid: aaf779edc40f8c54c85c2ca3e7b03998, type: 3}
+  - textureLight: {fileID: 2800000, guid: b7bc254235d793c43ba3b3e25efa8ad6, type: 3}
+  - textureTemperature: {fileID: 2800000, guid: dfb05da38a041a44cae6bdfe6ebfbf23,
+      type: 3}
+  - textureAttack: {fileID: 2800000, guid: 9e0527730b8219e47af74edc401c537e, type: 3}
+  - planeForTutorialImage: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

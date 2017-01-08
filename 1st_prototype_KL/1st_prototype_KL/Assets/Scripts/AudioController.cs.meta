@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: aa275d975fcd4784aa6773bcc5bd4013
+timeCreated: 1458811848
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - dashSound: {fileID: 8300000, guid: ff9089c1f9dc44c458f363e25f85eec5, type: 3}
+  - nomNomSound: {fileID: 8300000, guid: d279816da1af0ec45bc08c6e2174ffc5, type: 3}
+  - fullBarSound: {fileID: 8300000, guid: fc6197133a46ff5479e517bd200e1ea1, type: 3}
+  - destructionWallSound: {fileID: 8300000, guid: 4c4bec5a7767fbe488328f1845c80cf6,
+      type: 3}
+  - takeDamage: {fileID: 8300000, guid: a9538e9498c6ea843982e989e5077f6a, type: 3}
+  - death: {fileID: 8300000, guid: a9538e9498c6ea843982e989e5077f6a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

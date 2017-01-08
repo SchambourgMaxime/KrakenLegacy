@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 0d00a7c1b38781c45bd784db2810c2b4
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bone1148
+    100004: Bone1149
+    100006: Bone1150
+    100008: Bone1151
+    100010: Bone1152
+    100012: Bone1153
+    100014: Bone1154
+    100016: Bone1155
+    100018: Bone1156
+    100020: Bone1157
+    100022: Bone1158
+    100024: Bone1159
+    100026: Bone1160
+    100028: Bone1161
+    100030: Bone1162
+    100032: Bone1163
+    100034: Bone1164
+    100036: Bone1165
+    100038: Bone1166
+    100040: Bone1167
+    100042: Bone1168
+    100044: Bone1169
+    100046: Bone1170
+    100048: Bone1171
+    100050: Bone1172
+    100052: Bone1173
+    100054: Bone1179
+    100056: Bone1180
+    100058: Bone1181
+    100060: Bone1182
+    100062: Bone1183
+    100064: Bone1184
+    100066: Bone1185
+    100068: Bone1186
+    100070: Bone1187
+    100072: Bone1188
+    100074: Bone1189
+    100076: Bone1190
+    100078: Bone1191
+    100080: Bone1192
+    100082: Coral_07c
+    400000: //RootNode
+    400002: Bone1148
+    400004: Bone1149
+    400006: Bone1150
+    400008: Bone1151
+    400010: Bone1152
+    400012: Bone1153
+    400014: Bone1154
+    400016: Bone1155
+    400018: Bone1156
+    400020: Bone1157
+    400022: Bone1158
+    400024: Bone1159
+    400026: Bone1160
+    400028: Bone1161
+    400030: Bone1162
+    400032: Bone1163
+    400034: Bone1164
+    400036: Bone1165
+    400038: Bone1166
+    400040: Bone1167
+    400042: Bone1168
+    400044: Bone1169
+    400046: Bone1170
+    400048: Bone1171
+    400050: Bone1172
+    400052: Bone1173
+    400054: Bone1179
+    400056: Bone1180
+    400058: Bone1181
+    400060: Bone1182
+    400062: Bone1183
+    400064: Bone1184
+    400066: Bone1185
+    400068: Bone1186
+    400070: Bone1187
+    400072: Bone1188
+    400074: Bone1189
+    400076: Bone1190
+    400078: Bone1191
+    400080: Bone1192
+    400082: Coral_07c
+    4300000: Coral_07c
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Coral_07c
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

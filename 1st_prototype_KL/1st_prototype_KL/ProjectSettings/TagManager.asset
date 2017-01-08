@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BigFish
+  - HidingSpot
+  - Creature
+  - BWFish
+  - Y1Fish
+  - Y2Fish
+  - Y3Fish
+  - Y4Fish
+  - Y5Fish
+  - Y6Fish
+  - Y7Fish
+  - Y8Fish
+  - Y9Fish
+  - Y10Fish
+  - Y11Fish
+  - VFish
+  - RFish
+  - PFish
+  - CFish
+  - B1Fish
+  - B2Fish
+  - B3Fish
+  - B4Fish
+  - B5Fish
+  - B6Fish
+  - B7Fish
+  - B8Fish
+  - B9Fish
+  - Food
+  - Plant
+  - Hazard
+  - Environment
+  - Turtle_RivalCreature
+  - SeaweedCollisions
+  - Shark_RivalCreature
+  - Orbs
+  - Meduse
+  - BossSpikes
+  - Special
+  - DestroyedSpike
+  - CameraHook
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - FogOfWar
+  - SeaWeed
+  - Tutorial
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

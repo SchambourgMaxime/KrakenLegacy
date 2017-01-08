@@ -1,0 +1,414 @@
+fileFormatVersion: 2
+guid: 2e08df9892e9c8b4489b8966810dcf5d
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: FatControl_L
+    100002: FatControl_R
+    100004: Fin_L
+    100006: Fin_R
+    100008: //RootNode
+    100010: Gilda_LoRes_New
+    100012: HeadControl
+    100014: JawControl
+    100016: JawControl2
+    100018: Lure1
+    100020: Lure2
+    100022: Rig
+    100024: Root
+    100026: Spine1
+    100028: Spine2
+    100030: Spine3
+    100032: Gilda_Model
+    100034: Angler_Fish_Rig
+    100036: Angler_Fish_Model
+    100038: Fin_L_01
+    100040: Fin_R_01
+    100042: HatchetFish_Model
+    100044: Head_01
+    100046: Head_02
+    100048: Jaw_01
+    100050: Jaw_02
+    100052: Spine_01
+    100054: Spine_02
+    100056: Spine_03
+    100058: Spine_04
+    100060: Spine_05
+    100062: Sun_000
+    100064: Sun_001
+    100066: Angler_Fish_HiPoly
+    100068: Angler_Fish_HiPoly_MeshPart0
+    100070: Angler_Fish_HiPoly_MeshPart1
+    100072: Angler_Fish_HiPoly_MeshPart10
+    100074: Angler_Fish_HiPoly_MeshPart11
+    100076: Angler_Fish_HiPoly_MeshPart12
+    100078: Angler_Fish_HiPoly_MeshPart13
+    100080: Angler_Fish_HiPoly_MeshPart14
+    100082: Angler_Fish_HiPoly_MeshPart15
+    100084: Angler_Fish_HiPoly_MeshPart2
+    100086: Angler_Fish_HiPoly_MeshPart3
+    100088: Angler_Fish_HiPoly_MeshPart4
+    100090: Angler_Fish_HiPoly_MeshPart5
+    100092: Angler_Fish_HiPoly_MeshPart6
+    100094: Angler_Fish_HiPoly_MeshPart7
+    100096: Angler_Fish_HiPoly_MeshPart8
+    100098: Angler_Fish_HiPoly_MeshPart9
+    100100: Sun
+    400000: FatControl_L
+    400002: FatControl_R
+    400004: Fin_L
+    400006: Fin_R
+    400008: //RootNode
+    400010: Gilda_LoRes_New
+    400012: HeadControl
+    400014: JawControl
+    400016: JawControl2
+    400018: Lure1
+    400020: Lure2
+    400022: Rig
+    400024: Root
+    400026: Spine1
+    400028: Spine2
+    400030: Spine3
+    400032: Gilda_Model
+    400034: Angler_Fish_Rig
+    400036: Angler_Fish_Model
+    400038: Fin_L_01
+    400040: Fin_R_01
+    400042: HatchetFish_Model
+    400044: Head_01
+    400046: Head_02
+    400048: Jaw_01
+    400050: Jaw_02
+    400052: Spine_01
+    400054: Spine_02
+    400056: Spine_03
+    400058: Spine_04
+    400060: Spine_05
+    400062: Sun_000
+    400064: Sun_001
+    400066: Angler_Fish_HiPoly
+    400068: Angler_Fish_HiPoly_MeshPart0
+    400070: Angler_Fish_HiPoly_MeshPart1
+    400072: Angler_Fish_HiPoly_MeshPart10
+    400074: Angler_Fish_HiPoly_MeshPart11
+    400076: Angler_Fish_HiPoly_MeshPart12
+    400078: Angler_Fish_HiPoly_MeshPart13
+    400080: Angler_Fish_HiPoly_MeshPart14
+    400082: Angler_Fish_HiPoly_MeshPart15
+    400084: Angler_Fish_HiPoly_MeshPart2
+    400086: Angler_Fish_HiPoly_MeshPart3
+    400088: Angler_Fish_HiPoly_MeshPart4
+    400090: Angler_Fish_HiPoly_MeshPart5
+    400092: Angler_Fish_HiPoly_MeshPart6
+    400094: Angler_Fish_HiPoly_MeshPart7
+    400096: Angler_Fish_HiPoly_MeshPart8
+    400098: Angler_Fish_HiPoly_MeshPart9
+    400100: Sun
+    2300000: Angler_Fish_HiPoly_MeshPart0
+    2300002: Angler_Fish_HiPoly_MeshPart1
+    2300004: Angler_Fish_HiPoly_MeshPart10
+    2300006: Angler_Fish_HiPoly_MeshPart11
+    2300008: Angler_Fish_HiPoly_MeshPart12
+    2300010: Angler_Fish_HiPoly_MeshPart13
+    2300012: Angler_Fish_HiPoly_MeshPart14
+    2300014: Angler_Fish_HiPoly_MeshPart15
+    2300016: Angler_Fish_HiPoly_MeshPart2
+    2300018: Angler_Fish_HiPoly_MeshPart3
+    2300020: Angler_Fish_HiPoly_MeshPart4
+    2300022: Angler_Fish_HiPoly_MeshPart5
+    2300024: Angler_Fish_HiPoly_MeshPart6
+    2300026: Angler_Fish_HiPoly_MeshPart7
+    2300028: Angler_Fish_HiPoly_MeshPart8
+    2300030: Angler_Fish_HiPoly_MeshPart9
+    3300000: Angler_Fish_HiPoly_MeshPart0
+    3300002: Angler_Fish_HiPoly_MeshPart1
+    3300004: Angler_Fish_HiPoly_MeshPart10
+    3300006: Angler_Fish_HiPoly_MeshPart11
+    3300008: Angler_Fish_HiPoly_MeshPart12
+    3300010: Angler_Fish_HiPoly_MeshPart13
+    3300012: Angler_Fish_HiPoly_MeshPart14
+    3300014: Angler_Fish_HiPoly_MeshPart15
+    3300016: Angler_Fish_HiPoly_MeshPart2
+    3300018: Angler_Fish_HiPoly_MeshPart3
+    3300020: Angler_Fish_HiPoly_MeshPart4
+    3300022: Angler_Fish_HiPoly_MeshPart5
+    3300024: Angler_Fish_HiPoly_MeshPart6
+    3300026: Angler_Fish_HiPoly_MeshPart7
+    3300028: Angler_Fish_HiPoly_MeshPart8
+    3300030: Angler_Fish_HiPoly_MeshPart9
+    4300000: Gilda_LoRes_New
+    4300002: Gilda_Model
+    4300004: Angler_Fish_Model
+    4300006: HatchetFish_Model
+    4300008: Angler_Fish_HiPoly_MeshPart0
+    4300010: Angler_Fish_HiPoly_MeshPart1
+    4300012: Angler_Fish_HiPoly_MeshPart2
+    4300014: Angler_Fish_HiPoly_MeshPart3
+    4300016: Angler_Fish_HiPoly_MeshPart4
+    4300018: Angler_Fish_HiPoly_MeshPart5
+    4300020: Angler_Fish_HiPoly_MeshPart6
+    4300022: Angler_Fish_HiPoly_MeshPart7
+    4300024: Angler_Fish_HiPoly_MeshPart8
+    4300026: Angler_Fish_HiPoly_MeshPart9
+    4300028: Angler_Fish_HiPoly_MeshPart10
+    4300030: Angler_Fish_HiPoly_MeshPart11
+    4300032: Angler_Fish_HiPoly_MeshPart12
+    4300034: Angler_Fish_HiPoly_MeshPart13
+    4300036: Angler_Fish_HiPoly_MeshPart14
+    4300038: Angler_Fish_HiPoly_MeshPart15
+    7400000: Default Take
+    7400002: Gilda_Idle
+    7400004: Gilda_Swim
+    7400006: Angler_Fish_Idle
+    7400008: Angler_Fish_Swim
+    7400010: Angler_Fish_Bite
+    9500000: //RootNode
+    13700000: Gilda_LoRes_New
+    13700002: Gilda_Model
+    13700004: Angler_Fish_Model
+    13700006: HatchetFish_Model
+  materials:
+    importMaterials: 0
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Angler_Fish_Idle
+      takeName: Angler_Fish_Idle
+      firstFrame: -1
+      lastFrame: 219
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Angler_Fish_Model
+        weight: 1
+      - path: Angler_Fish_Rig
+        weight: 1
+      - path: Angler_Fish_Rig/Root
+        weight: 1
+      - path: Angler_Fish_Rig/Root/HeadControl
+        weight: 1
+      - path: Angler_Fish_Rig/Root/HeadControl/FatControl_L
+        weight: 1
+      - path: Angler_Fish_Rig/Root/HeadControl/FatControl_R
+        weight: 1
+      - path: Angler_Fish_Rig/Root/HeadControl/Fin_L
+        weight: 1
+      - path: Angler_Fish_Rig/Root/HeadControl/Fin_R
+        weight: 1
+      - path: Angler_Fish_Rig/Root/HeadControl/JawControl
+        weight: 1
+      - path: Angler_Fish_Rig/Root/HeadControl/JawControl/JawControl2
+        weight: 1
+      - path: Angler_Fish_Rig/Root/HeadControl/Lure1
+        weight: 1
+      - path: Angler_Fish_Rig/Root/HeadControl/Lure1/Lure2
+        weight: 1
+      - path: Angler_Fish_Rig/Root/Spine1
+        weight: 1
+      - path: Angler_Fish_Rig/Root/Spine1/Spine2
+        weight: 1
+      - path: Angler_Fish_Rig/Root/Spine1/Spine2/Spine3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Angler_Fish_Swim
+      takeName: Angler_Fish_Swim
+      firstFrame: -1
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Angler_Fish_Model
+        weight: 1
+      - path: Angler_Fish_Rig
+        weight: 1
+      - path: Angler_Fish_Rig/Root
+        weight: 1
+      - path: Angler_Fish_Rig/Root/HeadControl
+        weight: 1
+      - path: Angler_Fish_Rig/Root/HeadControl/FatControl_L
+        weight: 1
+      - path: Angler_Fish_Rig/Root/HeadControl/FatControl_R
+        weight: 1
+      - path: Angler_Fish_Rig/Root/HeadControl/Fin_L
+        weight: 1
+      - path: Angler_Fish_Rig/Root/HeadControl/Fin_R
+        weight: 1
+      - path: Angler_Fish_Rig/Root/HeadControl/JawControl
+        weight: 1
+      - path: Angler_Fish_Rig/Root/HeadControl/JawControl/JawControl2
+        weight: 1
+      - path: Angler_Fish_Rig/Root/HeadControl/Lure1
+        weight: 1
+      - path: Angler_Fish_Rig/Root/HeadControl/Lure1/Lure2
+        weight: 1
+      - path: Angler_Fish_Rig/Root/Spine1
+        weight: 1
+      - path: Angler_Fish_Rig/Root/Spine1/Spine2
+        weight: 1
+      - path: Angler_Fish_Rig/Root/Spine1/Spine2/Spine3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Angler_Fish_Bite
+      takeName: Angler_Fish_Bite
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Angler_Fish_Model
+        weight: 1
+      - path: Angler_Fish_Rig
+        weight: 1
+      - path: Angler_Fish_Rig/Root
+        weight: 1
+      - path: Angler_Fish_Rig/Root/HeadControl
+        weight: 1
+      - path: Angler_Fish_Rig/Root/HeadControl/FatControl_L
+        weight: 1
+      - path: Angler_Fish_Rig/Root/HeadControl/FatControl_R
+        weight: 1
+      - path: Angler_Fish_Rig/Root/HeadControl/Fin_L
+        weight: 1
+      - path: Angler_Fish_Rig/Root/HeadControl/Fin_R
+        weight: 1
+      - path: Angler_Fish_Rig/Root/HeadControl/JawControl
+        weight: 1
+      - path: Angler_Fish_Rig/Root/HeadControl/JawControl/JawControl2
+        weight: 1
+      - path: Angler_Fish_Rig/Root/HeadControl/Lure1
+        weight: 1
+      - path: Angler_Fish_Rig/Root/HeadControl/Lure1/Lure2
+        weight: 1
+      - path: Angler_Fish_Rig/Root/Spine1
+        weight: 1
+      - path: Angler_Fish_Rig/Root/Spine1/Spine2
+        weight: 1
+      - path: Angler_Fish_Rig/Root/Spine1/Spine2/Spine3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

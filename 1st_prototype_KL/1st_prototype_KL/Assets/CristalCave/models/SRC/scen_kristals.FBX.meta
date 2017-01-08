@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: dc512236228e4bd4fbed0f75cca995fe
+timeCreated: 1443318397
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: kok1
+    100002: kok1 1
+    100004: kol_rad
+    100006: koredor
+    100008: koredor001
+    100010: Object6291
+    100012: Object6292
+    100014: //RootNode
+    100016: sten
+    100018: sten_002
+    100020: sten_1
+    400000: kok1
+    400002: kok1 1
+    400004: kol_rad
+    400006: koredor
+    400008: koredor001
+    400010: Object6291
+    400012: Object6292
+    400014: //RootNode
+    400016: sten
+    400018: sten_002
+    400020: sten_1
+    2300000: kok1
+    2300002: kok1 1
+    2300004: kol_rad
+    2300006: koredor
+    2300008: koredor001
+    2300010: Object6291
+    2300012: Object6292
+    2300014: sten
+    2300016: sten_002
+    2300018: sten_1
+    3300000: kok1
+    3300002: kok1 1
+    3300004: kol_rad
+    3300006: koredor
+    3300008: koredor001
+    3300010: Object6291
+    3300012: Object6292
+    3300014: sten
+    3300016: sten_002
+    3300018: sten_1
+    4300000: sten
+    4300002: sten_1
+    4300004: kok1
+    4300006: Object6291
+    4300008: kok1
+    4300010: kol_rad
+    4300012: Object6292
+    4300014: koredor
+    4300016: sten_002
+    4300018: koredor001
+    6400000: kok1
+    6400002: kok1 1
+    6400004: kol_rad
+    6400006: koredor
+    6400008: koredor001
+    6400010: Object6291
+    6400012: Object6292
+    6400014: sten
+    6400016: sten_002
+    6400018: sten_1
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .5
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

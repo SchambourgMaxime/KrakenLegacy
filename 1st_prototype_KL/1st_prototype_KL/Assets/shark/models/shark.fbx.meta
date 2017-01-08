@@ -1,0 +1,433 @@
+fileFormatVersion: 2
+guid: 6e2d3b02d2976f5468b2273930c76f9b
+timeCreated: 1456949509
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: b1
+    100002: b2
+    100004: b2.001
+    100006: b3
+    100008: b3.001
+    100010: b4
+    100012: Bone
+    100014: Bone.010
+    100016: Bone.011
+    100018: Bone.011_end
+    100020: h
+    100022: h1
+    100024: h1_end
+    100026: h2
+    100028: h2_end
+    100030: p
+    100032: p.L
+    100034: p.L.001
+    100036: p.L.001_end
+    100038: p.R
+    100040: p.R.001
+    100042: p.R.001_end
+    100044: p1
+    100046: p1.L
+    100048: p1.R
+    100050: p2.L
+    100052: p2.L_end
+    100054: p2.R
+    100056: p2.R_end
+    100058: p3
+    100060: p3_end
+    100062: //RootNode
+    100064: shark
+    100066: shark_rig
+    400000: b1
+    400002: b2
+    400004: b2.001
+    400006: b3
+    400008: b3.001
+    400010: b4
+    400012: Bone
+    400014: Bone.010
+    400016: Bone.011
+    400018: Bone.011_end
+    400020: h
+    400022: h1
+    400024: h1_end
+    400026: h2
+    400028: h2_end
+    400030: p
+    400032: p.L
+    400034: p.L.001
+    400036: p.L.001_end
+    400038: p.R
+    400040: p.R.001
+    400042: p.R.001_end
+    400044: p1
+    400046: p1.L
+    400048: p1.R
+    400050: p2.L
+    400052: p2.L_end
+    400054: p2.R
+    400056: p2.R_end
+    400058: p3
+    400060: p3_end
+    400062: shark
+    400064: //RootNode
+    400066: shark_rig
+    4300000: shark
+    7400000: shark_rig|shark_attack
+    7400002: shark_rig|shark_speed
+    7400004: shark_rig|shark_swim
+    9500000: //RootNode
+    13700000: shark
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: shark_rig|shark_attack
+      takeName: shark_rig|shark_attack
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: shark
+        weight: 1
+      - path: shark_rig
+        weight: 1
+      - path: shark_rig/Bone
+        weight: 1
+      - path: shark_rig/Bone/b1
+        weight: 1
+      - path: shark_rig/Bone/b1/b2
+        weight: 1
+      - path: shark_rig/Bone/b1/b2/b2.001
+        weight: 1
+      - path: shark_rig/Bone/b1/b2/b2.001/b3
+        weight: 1
+      - path: shark_rig/Bone/b1/b2/b2.001/b3/b3.001
+        weight: 1
+      - path: shark_rig/Bone/b1/b2/b2.001/b3/b3.001/b4
+        weight: 1
+      - path: shark_rig/Bone/b1/b2/b2.001/b3/b3.001/b4/h
+        weight: 1
+      - path: shark_rig/Bone/b1/b2/b2.001/b3/b3.001/b4/h/h1
+        weight: 1
+      - path: shark_rig/Bone/b1/b2/b2.001/b3/b3.001/b4/h/h1/h1_end
+        weight: 1
+      - path: shark_rig/Bone/b1/b2/b2.001/b3/b3.001/b4/h/h2
+        weight: 1
+      - path: shark_rig/Bone/b1/b2/b2.001/b3/b3.001/b4/h/h2/h2_end
+        weight: 1
+      - path: shark_rig/Bone/b1/Bone.010
+        weight: 1
+      - path: shark_rig/Bone/b1/Bone.010/Bone.011
+        weight: 1
+      - path: shark_rig/Bone/b1/Bone.010/Bone.011/Bone.011_end
+        weight: 1
+      - path: shark_rig/Bone/b1/Bone.010/p.L.001
+        weight: 1
+      - path: shark_rig/Bone/b1/Bone.010/p.L.001/p.L.001_end
+        weight: 1
+      - path: shark_rig/Bone/b1/Bone.010/p.R.001
+        weight: 1
+      - path: shark_rig/Bone/b1/Bone.010/p.R.001/p.R.001_end
+        weight: 1
+      - path: shark_rig/Bone/b1/p
+        weight: 1
+      - path: shark_rig/Bone/b1/p/p1
+        weight: 1
+      - path: shark_rig/Bone/b1/p/p1/p3
+        weight: 1
+      - path: shark_rig/Bone/b1/p/p1/p3/p3_end
+        weight: 1
+      - path: shark_rig/Bone/b1/p.L
+        weight: 1
+      - path: shark_rig/Bone/b1/p.L/p1.L
+        weight: 1
+      - path: shark_rig/Bone/b1/p.L/p1.L/p2.L
+        weight: 1
+      - path: shark_rig/Bone/b1/p.L/p1.L/p2.L/p2.L_end
+        weight: 1
+      - path: shark_rig/Bone/b1/p.R
+        weight: 1
+      - path: shark_rig/Bone/b1/p.R/p1.R
+        weight: 1
+      - path: shark_rig/Bone/b1/p.R/p1.R/p2.R
+        weight: 1
+      - path: shark_rig/Bone/b1/p.R/p1.R/p2.R/p2.R_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: shark_rig|shark_speed
+      takeName: shark_rig|shark_speed
+      firstFrame: 0
+      lastFrame: 18
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: shark
+        weight: 1
+      - path: shark_rig
+        weight: 1
+      - path: shark_rig/Bone
+        weight: 1
+      - path: shark_rig/Bone/b1
+        weight: 1
+      - path: shark_rig/Bone/b1/b2
+        weight: 1
+      - path: shark_rig/Bone/b1/b2/b2.001
+        weight: 1
+      - path: shark_rig/Bone/b1/b2/b2.001/b3
+        weight: 1
+      - path: shark_rig/Bone/b1/b2/b2.001/b3/b3.001
+        weight: 1
+      - path: shark_rig/Bone/b1/b2/b2.001/b3/b3.001/b4
+        weight: 1
+      - path: shark_rig/Bone/b1/b2/b2.001/b3/b3.001/b4/h
+        weight: 1
+      - path: shark_rig/Bone/b1/b2/b2.001/b3/b3.001/b4/h/h1
+        weight: 1
+      - path: shark_rig/Bone/b1/b2/b2.001/b3/b3.001/b4/h/h1/h1_end
+        weight: 1
+      - path: shark_rig/Bone/b1/b2/b2.001/b3/b3.001/b4/h/h2
+        weight: 1
+      - path: shark_rig/Bone/b1/b2/b2.001/b3/b3.001/b4/h/h2/h2_end
+        weight: 1
+      - path: shark_rig/Bone/b1/Bone.010
+        weight: 1
+      - path: shark_rig/Bone/b1/Bone.010/Bone.011
+        weight: 1
+      - path: shark_rig/Bone/b1/Bone.010/Bone.011/Bone.011_end
+        weight: 1
+      - path: shark_rig/Bone/b1/Bone.010/p.L.001
+        weight: 1
+      - path: shark_rig/Bone/b1/Bone.010/p.L.001/p.L.001_end
+        weight: 1
+      - path: shark_rig/Bone/b1/Bone.010/p.R.001
+        weight: 1
+      - path: shark_rig/Bone/b1/Bone.010/p.R.001/p.R.001_end
+        weight: 1
+      - path: shark_rig/Bone/b1/p
+        weight: 1
+      - path: shark_rig/Bone/b1/p/p1
+        weight: 1
+      - path: shark_rig/Bone/b1/p/p1/p3
+        weight: 1
+      - path: shark_rig/Bone/b1/p/p1/p3/p3_end
+        weight: 1
+      - path: shark_rig/Bone/b1/p.L
+        weight: 1
+      - path: shark_rig/Bone/b1/p.L/p1.L
+        weight: 1
+      - path: shark_rig/Bone/b1/p.L/p1.L/p2.L
+        weight: 1
+      - path: shark_rig/Bone/b1/p.L/p1.L/p2.L/p2.L_end
+        weight: 1
+      - path: shark_rig/Bone/b1/p.R
+        weight: 1
+      - path: shark_rig/Bone/b1/p.R/p1.R
+        weight: 1
+      - path: shark_rig/Bone/b1/p.R/p1.R/p2.R
+        weight: 1
+      - path: shark_rig/Bone/b1/p.R/p1.R/p2.R/p2.R_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: shark_rig|shark_swim
+      takeName: shark_rig|shark_swim
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: shark
+        weight: 1
+      - path: shark_rig
+        weight: 1
+      - path: shark_rig/Bone
+        weight: 1
+      - path: shark_rig/Bone/b1
+        weight: 1
+      - path: shark_rig/Bone/b1/b2
+        weight: 1
+      - path: shark_rig/Bone/b1/b2/b2.001
+        weight: 1
+      - path: shark_rig/Bone/b1/b2/b2.001/b3
+        weight: 1
+      - path: shark_rig/Bone/b1/b2/b2.001/b3/b3.001
+        weight: 1
+      - path: shark_rig/Bone/b1/b2/b2.001/b3/b3.001/b4
+        weight: 1
+      - path: shark_rig/Bone/b1/b2/b2.001/b3/b3.001/b4/h
+        weight: 1
+      - path: shark_rig/Bone/b1/b2/b2.001/b3/b3.001/b4/h/h1
+        weight: 1
+      - path: shark_rig/Bone/b1/b2/b2.001/b3/b3.001/b4/h/h1/h1_end
+        weight: 1
+      - path: shark_rig/Bone/b1/b2/b2.001/b3/b3.001/b4/h/h2
+        weight: 1
+      - path: shark_rig/Bone/b1/b2/b2.001/b3/b3.001/b4/h/h2/h2_end
+        weight: 1
+      - path: shark_rig/Bone/b1/Bone.010
+        weight: 1
+      - path: shark_rig/Bone/b1/Bone.010/Bone.011
+        weight: 1
+      - path: shark_rig/Bone/b1/Bone.010/Bone.011/Bone.011_end
+        weight: 1
+      - path: shark_rig/Bone/b1/Bone.010/p.L.001
+        weight: 1
+      - path: shark_rig/Bone/b1/Bone.010/p.L.001/p.L.001_end
+        weight: 1
+      - path: shark_rig/Bone/b1/Bone.010/p.R.001
+        weight: 1
+      - path: shark_rig/Bone/b1/Bone.010/p.R.001/p.R.001_end
+        weight: 1
+      - path: shark_rig/Bone/b1/p
+        weight: 1
+      - path: shark_rig/Bone/b1/p/p1
+        weight: 1
+      - path: shark_rig/Bone/b1/p/p1/p3
+        weight: 1
+      - path: shark_rig/Bone/b1/p/p1/p3/p3_end
+        weight: 1
+      - path: shark_rig/Bone/b1/p.L
+        weight: 1
+      - path: shark_rig/Bone/b1/p.L/p1.L
+        weight: 1
+      - path: shark_rig/Bone/b1/p.L/p1.L/p2.L
+        weight: 1
+      - path: shark_rig/Bone/b1/p.L/p1.L/p2.L/p2.L_end
+        weight: 1
+      - path: shark_rig/Bone/b1/p.R
+        weight: 1
+      - path: shark_rig/Bone/b1/p.R/p1.R
+        weight: 1
+      - path: shark_rig/Bone/b1/p.R/p1.R/p2.R
+        weight: 1
+      - path: shark_rig/Bone/b1/p.R/p1.R/p2.R/p2.R_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

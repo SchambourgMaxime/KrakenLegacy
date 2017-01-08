@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 065dd3690b9037744940998f9f3d89c7
+timeCreated: 1457820006
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - healthSlider: {instanceID: 0}
+  - strengthSlider: {instanceID: 0}
+  - defenseSlider: {instanceID: 0}
+  - speedSlider: {instanceID: 0}
+  - strengthIconUnlocked: {fileID: 21300000, guid: b9cb73f7524c48244aa53131cb3eb835,
+      type: 3}
+  - defenseIconUnlocked: {fileID: 21300000, guid: a6417623418e82a41b79d807b187c2c2,
+      type: 3}
+  - speedIconUnlocked: {fileID: 21300000, guid: 2be210054fe4b5b4491636e1a201d429,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,257 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &136714
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 457764}
+  - 65: {fileID: 6536734}
+  m_Layer: 0
+  m_Name: FishSpawnZone
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &153130
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 429816}
+  - 65: {fileID: 6566344}
+  - 114: {fileID: 11447408}
+  m_Layer: 0
+  m_Name: Room
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &177166
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 484154}
+  - 65: {fileID: 6568574}
+  - 114: {fileID: 11408070}
+  m_Layer: 0
+  m_Name: Limit
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &178068
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 442430}
+  - 114: {fileID: 11401980}
+  m_Layer: 0
+  m_Name: SpawnTool
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &429816
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 153130}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 8.697748, y: 34.9, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 442430}
+  - {fileID: 457764}
+  - {fileID: 484154}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!4 &442430
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 178068}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 429816}
+  m_RootOrder: 0
+--- !u!4 &457764
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 136714}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 429816}
+  m_RootOrder: 1
+--- !u!4 &484154
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 177166}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 429816}
+  m_RootOrder: 2
+--- !u!65 &6536734
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 136714}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 62.39892, y: 79.26928, z: 1}
+  m_Center: {x: -0.30684185, y: 10.437893, z: 0}
+--- !u!65 &6566344
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 153130}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 110, y: 133.71, z: 1}
+  m_Center: {x: 0, y: -0.1, z: 0}
+--- !u!65 &6568574
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 177166}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 131.056, y: 147.71915, z: 50}
+  m_Center: {x: -5.258545, y: 4.7194977, z: 0}
+--- !u!114 &11401980
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 178068}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee703092813f1df42adea276469bd506, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spawnObj: {fileID: 0}
+  YoloSpawn: 0
+  maxFishes: 45
+  RoomMinX: 0
+  RoomMaxX: 200
+  RoomMinY: 0
+  RoomMaxY: 200
+  HalfSpawnAreaWidth: 10
+  HalfSpawnAreaHeight: 10
+  SpawnAMinX: 0
+  SpawnAMinY: 0
+  SpawnASize: 0
+  SpawnBMinX: 0
+  SpawnBMinY: 0
+  SpawnBSize: 0
+  SpawnCMinX: 0
+  SpawnCMinY: 0
+  SpawnCSize: 0
+--- !u!114 &11408070
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 177166}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee091d587928e4e45a58523fb8e95f54, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &11447408
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 153130}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 402883a35f75f3b48bc4bba754193e03, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  temperature: 0
+  possiblePlants:
+  - {fileID: 146080, guid: a36fbcff842723741a558ba8199fdb4f, type: 2}
+  possibleFishes:
+  - {fileID: 130276, guid: 7639364f12f75a94d96f1e11a6dd9b05, type: 2}
+  - {fileID: 175470, guid: 333313f479e4d754785997aed66c68c6, type: 2}
+  - {fileID: 133282, guid: a4eacf8c692d03a4980be87214d1627b, type: 2}
+  possibleConcurentCreatures:
+  - {fileID: 119618, guid: b1650200bf7ddf248a1742a53b5358f5, type: 2}
+  maxPlantsLimit: 20
+  maxFishesLimit: 100
+  maxConcurentCreaturesLimit: 5
+  minPlantsLimit: 10
+  minFishesLimit: 50
+  minConcurentCreaturesLimit: 2
+  percentageSizePlayer: 10
+  limitTestSpawn: 10
+  baseSpawnInterval: 1
+  minRandTime: 0
+  maxRandTime: 2.5
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 0}
+      propertyPath: possibleConcurentCreatures.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: percentageSizePlayer
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: possibleConcurentCreatures.Array.data[0]
+      value: 
+      objectReference: {fileID: 119618, guid: b1650200bf7ddf248a1742a53b5358f5, type: 2}
+    - target: {fileID: 0}
+      propertyPath: maxConcurentCreaturesLimit
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: minConcurentCreaturesLimit
+      value: 2
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 153130}
+  m_IsPrefabParent: 1
